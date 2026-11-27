@@ -265,7 +265,7 @@ Invoice scanning · festival forecasting · distributor integrations · joint pu
 
 ## 12. Current status (update this section as we go)
 
-- [ ] GitHub repo created (public) — link: _TBD_
+- [x] GitHub repo created (public) — https://github.com/vedan1turkar/dukaanbol (CI green)
 - [ ] Vercel connected — live link: _TBD_
 - [x] Scaffold + app shell + CI (27 Nov night) — Vite/React/TS/Tailwind/Vitest, router, bottom nav, 8 placeholder screens marked with owner + TODO
 - [x] `src/contracts/types.ts` + `src/contracts/store.ts` drafted (includes Recommendation, PurchaseOrderDraft, ApprovedPO, ShopSettings)
@@ -276,7 +276,7 @@ Invoice scanning · festival forecasting · distributor integrations · joint pu
 
 ### How Aditya starts (28 Nov)
 ```bash
-git clone <repo-url> && cd dukaanbol
+git clone https://github.com/vedan1turkar/dukaanbol.git && cd dukaanbol
 npm install
 npm run dev        # open http://localhost:5173 in Chrome
 npm test
