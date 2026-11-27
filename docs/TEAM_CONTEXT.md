@@ -235,7 +235,7 @@ tests/
 
 | When | What |
 |---|---|
-| **27 Nov night** | Vedant (+ Claude): scaffold repo, contracts draft, mockStore, app shell, CI, first Vercel deploy |
+| **27 Nov night** | Vedant: scaffold repo, contracts draft, mockStore, app shell, CI, first Vercel deploy |
 | **28 Nov, morning (15 min sync)** | Aditya reads this file + `contracts/`. Fix anything that doesn't work for the voice side. **Freeze contracts.** |
 | 28 Nov, 1 pm | Checkpoint: Aditya's voice loop works on mockStore; Vedant's domain tests pass |
 | **28 Nov, 7 pm** | **Checkpoint: swap mock → real store.** Do voice sale → confirm → stock changes → undo together, on a phone |
